@@ -88,6 +88,7 @@ a, .hero-secondary-text {
     display: flex;
     flex-direction: column;
     gap: 24px;
+    flex-grow: 1;
 }
 
 .info-container {
