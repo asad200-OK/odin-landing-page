@@ -1,0 +1,1 @@
+Toy HTML and CSS landing page for The Odin Poject assignment.
